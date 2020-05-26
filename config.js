@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'What to Pray',
     photo: '/media/p-logo.png',
-    bio: 'Never Underestimate The Influence Of Praying for your Kids. Join us every week, where we give you a prayer guide with 5 things to pray for your kids that you can use throughout the workweek. Enjoy!',
+    bio: 'Weekly Prayer Guides that will guide you through effective pryaing for your children throughout the week. Enjoy!',
     contacts: {
       email: '',
       facebook: '#',
