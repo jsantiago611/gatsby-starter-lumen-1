@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: '🙏Prayer Guides',
       path: '/'
     },
     {
