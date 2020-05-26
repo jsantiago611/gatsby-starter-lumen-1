@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'What to Pray',
   subtitle: 'Praying through the Bible for your Kids',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,8 +25,8 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Derek',
-    photo: '/photo.jpg',
+    name: 'Jonathan S.',
+    photo: '/media/p-logo.png',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '',
