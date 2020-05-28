@@ -861,7 +861,3 @@
 .katex-display.fleqn>.katex{
 	text-align:left
 }
-@font-face {
-  font-family: "CalibreMedium";
-  src: url("../fonts/calibre-test-medium.woff")   format("woff");
-} 
